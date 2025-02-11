@@ -1,0 +1,1 @@
+This repository demonstrates a bug in React Router Dom v6 related to nested routes.  When defining a route at a parent level and then also defining a nested route within that parent, unexpected behavior occurs during navigation.  The solution provided addresses this issue and ensures proper navigation to nested routes.
